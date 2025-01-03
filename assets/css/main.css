@@ -865,7 +865,7 @@ section,
   position: absolute;
   left: calc(50% - 40px);
   font-size: 26px;
-  top: calc(50% - 14px);
+  top: calc(32% - 14px);
   color: #fff;
   transition: 0.3s;
   line-height: 1.2;
