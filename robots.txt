@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /
+
+User-agent: Googlebot-Image
+Disallow: https://jorgeber19.github.io/porfolio/assets/img/img-inicio.webp
+Disallow: https://jorgeber19.github.io/porfolio/assets/img/porfolio/clonecilla.webp
+Disallow: https://jorgeber19.github.io/porfolio/assets/img/porfolio/hash.webp
+Disallow: https://jorgeber19.github.io/porfolio/assets/img/porfolio/odoo.webp
+Disallow: https://jorgeber19.github.io/porfolio/assets/img/porfolio/python.webp
+Disallow: https://jorgeber19.github.io/porfolio/assets/img/porfolio/windows-server.webp
+Disallow: https://jorgeber19.github.io/porfolio/assets/img/porfolio/xampp.webp
+Disallow: https://jorgeber19.github.io/porfolio/assets/img/perfil.webp
+Disallow: https://jorgeber19.github.io/porfolio/assets/img/usuario-sobre-mi.jpg
+Disallow: https://jorgeber19.github.io/porfolio/assets/img/usuario.jpg
+
+User-agent: Googlebot-Image
+Disallow: /
+
+Sitemap: https://jorgeber19.github.io/porfolio/sitemap.xml
