@@ -14,4 +14,4 @@ elegir el icono y después copie el nombre del icono y lo puse con su etiqueta
 <i class="bi bi-database-check"> ya que mi plantilla tiene todos los iconos
 descargados.
 
-Link web: 
+Link web: https://jorgeber19.github.io/porfolio/#hero
