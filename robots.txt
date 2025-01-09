@@ -16,7 +16,8 @@ Disallow: https://jorgeber19.github.io/porfolio/assets/img/usuario.jpg
 User-agent: Googlebot-Image
 Disallow: https://jorgeber19.github.io/porfolio/assets/img/
 
-Sitemap: https://jorgeber19.github.io/porfolio/sitemap.xml
 
 User-agent: Googlebot-Image
 Disallow: /porfolio/assets/img/
+
+Sitemap: https://jorgeber19.github.io/porfolio/sitemap.xml
